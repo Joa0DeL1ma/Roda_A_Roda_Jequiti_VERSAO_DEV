@@ -1,0 +1,10 @@
+.botaoFinalizar{
+    margin-top: 1em;
+    font-size: 1.8em;
+}
+
+.jogo {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
